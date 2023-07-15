@@ -1,6 +1,6 @@
 # Snort Rules and MITRE ATT&CK Framework Correlation
 
-This Python script analyzes Snort rules and correlates the most frequent terms found in those rules with techniques described in the MITRE ATT&CK framework. The correlation is based on the presence of the term in the description of the MITRE technique. 
+This Python notebook analyzes Snort rules and correlates the most frequent terms found in those rules with techniques described in the MITRE ATT&CK framework. The correlation is based on the presence of the term in the description of the MITRE technique. 
 
 ## How it works
 
